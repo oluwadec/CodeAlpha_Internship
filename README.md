@@ -32,7 +32,7 @@ CodeAlpha_Tasks/
 │   ├── main.cpp
 │   └── README.md
 │
-├── Task2_LoginAndRegistrationSystem/
+├── Task2_SudokuSolver/
 │   ├── main.cpp
 │   ├── User.h
 │   ├── User.cpp
